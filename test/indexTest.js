@@ -1,3 +1,5 @@
+const { submitData } = require('../index');
+
 require ( './helpers.js' );
 
 require( './helpers' );
